@@ -1,4 +1,4 @@
-# CNS Fit Test 예상 기출문제 20선 (Emerging Technology 학습자료 기반)
+# CNS Fit Test 예상 기출문제 30선 (Emerging Technology 학습자료 기반)
 
 > 근거: LG CNS 제공 "Emerging Technology" 학습자료(16p) — `cns-fit-test-emerging-tech-study-material.md` 참고
 > 작성일: 2026-10-03
@@ -213,3 +213,97 @@
 | Q18 | ② | 자료는 "중국은 국가전략 차원에서 휴머노이드 로봇 대량생산 체계를 구축하고 있으며, 유니트리는 2025년 수천 대의 휴머노이드 로봇을 출하"했다고 명시합니다. 테슬라·현대차(③④)는 "자동차 생산라인 투입을 위한 파일럿 프로젝트" 단계로 구분되어 있어, 이미 수천 대를 양산한 유니트리와는 단계가 다릅니다. |
 | Q19 | ② | MiCA(암호자산 규제안)가 EU의 준비금·공시 규제입니다. GENIUS Act(①)는 미국의 관련 입법으로, 두 지역 규제를 헷갈리게 만드는 함정입니다. |
 | Q20 | ② | PQC(양자내성암호)의 정의 그대로입니다. QaaS(①)는 클라우드로 양자컴퓨팅 자원을 제공하는 서비스로 전혀 다른 개념입니다. |
+
+---
+---
+
+# 추가 예상 기출문제 10선 (Q21~Q30)
+
+> Q1~20이 다루지 않은 영역(Gartner Top10 개별 기술 정의, Agentic AI 배경·사례 구조, AI-Native SW Eng 세부 동향, CES 휴먼노이드·AIDV 사례, Stablecoin·양자컴퓨팅 나머지 동향)을 중심으로 구성했습니다. **정답과 해설은 이 섹션 맨 아래에 모아뒀습니다.**
+
+## 우선순위 1 — Gartner 2026 전략기술 Top10 개별 정의
+
+**Q21.** 데이터 처리가 진행되는 동안에도 하드웨어 기반으로 민감정보를 보호하는 Gartner 2026 전략기술은?
+① Digital Provenance
+② Confidential Computing
+③ AI Security Platform
+④ Preemptive Cybersecurity
+
+**Q22.** 제3자가 제공하는 AI 서비스와 기업이 자체 구축한 AI 애플리케이션을 통합적으로 보호·관리하는 개념은?
+① AI Security Platform
+② AI Supercomputing Platform
+③ DSLM
+④ IAM
+
+## 우선순위 2 — Agentic AI 배경·사례 구조
+
+**Q23.** 생성형 AI가 개인 생산성 향상에는 기여했지만 조직 전체 성과로는 잘 이어지지 않았던 현상을 가리키는 용어로, Agentic AI 등장 배경으로 제시된 것은?
+① Digital Divide
+② Productivity Leakage
+③ Data Drift
+④ Vendor Lock-in
+
+**Q24.** Accenture 'AI Refinery'가 채택한 계층 구조로 학습자료에 제시된 것은?
+① Planner-Executor-Verifier
+② Orchestrator-Super Agent-Utility Agent
+③ Sensor-Brain-Actuator
+④ Input-Process-Output
+
+## 우선순위 3 — AI-Native Software Engineering 세부 동향
+
+**Q25.** 2025년 Andrej Karpathy가 명명한 용어로, 자연어로 의도를 설명하면 AI가 코드로 구현해 비전문가도 직접 개발에 참여할 수 있게 하는 흐름은?
+① 바이브 코딩(Vibe Coding)
+② 로우코드(Low-Code)
+③ 페어 프로그래밍(Pair Programming)
+④ 리팩터링(Refactoring)
+
+**Q26.** AI-Native Software Engineering 환경에서 개발자의 역할 변화로 학습자료가 제시한 방향은?
+① 코드 작성자 역할이 더욱 강화되어 수작업 코딩 비중이 늘어난다
+② 시스템 설계자이자 AI와의 협업을 조율하는 Orchestrator로 역할이 확장된다
+③ 개발자라는 직군 자체가 단기간 내 사라진다
+④ 테스트 업무만 전담하는 역할로 축소된다
+
+## 우선순위 4 — CES 2026 사례 세부
+
+**Q27.** CES 2026에서 'Best Robot'상을 수상했으며, 2028년 연 3만 대 생산을 목표로 로봇 중심 기업으로의 전환을 선언한 기업(로봇)은?
+① LG전자 CLOiD
+② 보스턴 다이내믹스 아틀라스
+③ NVIDIA 알파마요
+④ Google AAA
+
+**Q28.** Mercedes-Benz와의 협업 시연을 통해 차량용 AI Agent 'AAA'를 선보인 기업은?
+① Siemens
+② Google
+③ NVIDIA
+④ Amazon
+
+## 우선순위 5 — Stablecoin·양자컴퓨팅 나머지 동향
+
+**Q29.** 학습자료가 제시한 CBDC와 민간 스테이블코인의 역할분담 구조로 가장 적절한 것은?
+① CBDC는 소매결제, 스테이블코인은 도매거래 전담
+② CBDC는 공공·도매 거래 중심, 스테이블코인은 소매결제·혁신서비스 중심
+③ 두 수단은 기능이 완전히 동일해 병행 운영될 수 없다
+④ CBDC가 도입되면 민간 스테이블코인은 전면 금지된다
+
+**Q30.** 일반 연산은 고전컴퓨터가, 고난도 최적화·시뮬레이션 연산은 양자컴퓨터가 맡는 역할분담형 아키텍처를 가리키는 용어는?
+① Fault-Tolerant Quantum Computing
+② 하이브리드(고전-양자 결합) 아키텍처
+③ Quantum-Safe Security
+④ Domain Randomization
+
+---
+
+## 정답 및 해설 (Q21~Q30)
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| Q21 | ② | Confidential Computing의 정의 그대로입니다. Digital Provenance(①)는 콘텐츠 출처 검증, AI Security Platform(③)은 AI 서비스·앱 통합 보호로 서로 다른 개념이라 혼동 주의. |
+| Q22 | ① | AI Security Platform의 정의 그대로입니다. |
+| Q23 | ② | "생산성 누수(Productivity Leakage)"라는 한계를 보완하려 Agentic AI가 등장했다고 자료에 명시돼 있습니다. |
+| Q24 | ② | Accenture AI Refinery는 Orchestrator-Super Agent-Utility Agent의 계층 구조로 구성됩니다. |
+| Q25 | ① | 바이브 코딩(Vibe Coding)의 정의와 창시자(Karpathy, 2025년)가 그대로 출제 포인트입니다. |
+| Q26 | ② | 코드 작성자에서 시스템 설계자+AI 협업 조율자(Orchestrator)로 역할이 확장된다고 명시됩니다. |
+| Q27 | ② | 보스턴 다이내믹스 아틀라스가 CES 2026에서 Best Robot상을 수상했고, 2028년 연 3만 대 생산 목표를 제시했습니다. |
+| Q28 | ② | Google의 AAA(차량용 AI Agent)가 Mercedes-Benz와 협업 시연했습니다. NVIDIA(③)는 별도로 '알파마요' 자율주행 플랫폼을 선보여 혼동하기 쉽습니다. |
+| Q29 | ② | "CBDC는 공공·도매 거래 중심, 민간 스테이블코인은 소매결제·혁신서비스 중심"이라는 역할분담 구조가 형성될 가능성이 제시됩니다. |
+| Q30 | ② | 고전-양자 결합형 하이브리드 아키텍처의 정의 그대로입니다. Fault-Tolerant(①)는 오류보정 기술, Quantum-Safe Security(③)는 암호 대응 체계로 다른 개념입니다. |
