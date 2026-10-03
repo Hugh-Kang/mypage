@@ -3,7 +3,7 @@
 > 근거: LG CNS 제공 "Emerging Technology" 학습자료(16p) — `cns-fit-test-emerging-tech-study-material.md` 참고
 > 작성일: 2026-10-03
 > 성격: 학습자료의 분량 배분(Top5 기술에 10p/16p 할애)을 근거로 출제 우선순위를 추정해 만든 **예상 문제**이며, 실제 CNS Fit Test 문제가 아님. 공식 기출문제는 공개된 바 없습니다.
-> 형식: 전 직무 공통 파트는 "객관식"으로 안내돼 있어 4지선다 객관식으로 구성
+> 형식: 전 직무 공통 파트는 "객관식"으로 안내돼 있어 4지선다 객관식으로 구성. **정답은 맨 아래 "정답 및 해설"에 모아뒀습니다.**
 
 ---
 
@@ -15,23 +15,17 @@
 ③ 완전히 독립적으로 작동하며 인간의 개입이 전혀 필요 없는 AI 시스템이다
 ④ 단일 거대언어모델이 모든 업무를 처리하는 구조를 의미한다
 
-> **정답 ②** — Agentic AI의 핵심은 "계획-실행-검증"이 반복되는 자율 실행 구조이며, 현재는 사람의 감독(Human-in-the-loop) 하에 일정 수준의 자율성을 갖는 형태가 일반적입니다(③은 오답 포인트로 자주 쓰이는 함정).
-
 **Q2.** Physical AI를 성공적으로 현장에 적용하기 위한 핵심 요소로 학습자료가 제시하지 **않은** 것은?
 ① 데이터 기반 학습 체계 구축
 ② 다수 로봇의 통합 운영 역량
 ③ 현장 맞춤형 로봇 배치 및 안전성 확보
 ④ 완전 자율주행을 위한 법제도 정비
 
-> **정답 ④** — 자료가 제시한 3대 핵심요소는 ①②③이며, ④(법제도 정비)는 언급되지 않았습니다.
-
 **Q3.** 기존 AIDD(AI-Driven Development)와 AI-Native Software Engineering의 가장 큰 차이점은?
 ① AIDD는 테스트 자동화만 지원하고 AI-Native는 지원하지 않는다
 ② AI-Native는 요구사항 정의부터 배포·운영까지 SDLC 전 과정을 AI가 수행하는 반면, AIDD는 설계보조·코드자동완성 등 부분적 생산성 개선에 그친다
 ③ AIDD는 바이브코딩을 의미하고 AI-Native는 전통적 개발 방식을 의미한다
 ④ 두 개념은 완전히 동일하며 혼용해서 쓰인다
-
-> **정답 ②** — 자료의 비교 다이어그램(Plan-Create-Verify-Release/Monitor)이 정확히 이 차이를 보여줍니다.
 
 ---
 
@@ -43,15 +37,11 @@
 ③ Blockchain-as-a-Service
 ④ Preemptive Cybersecurity
 
-> **정답 ③** — Top10은 AI-Native Dev Platform, AI Supercomputing, Confidential Computing, Multi-Agent Systems, DSLMs, Physical AI, Preemptive Cybersecurity, Digital Provenance, AI Security Platform, Geopatriation이며 'Blockchain-as-a-Service'는 목록에 없습니다. (이런 "목록에 없는 그럴듯한 가짜 선택지 고르기" 유형은 암기 상태를 정확히 확인하는 데 매우 효과적이라 출제 가능성이 높습니다.)
-
 **Q5.** 데이터를 자국 또는 지역 기반 인프라로 이전해 데이터 주권과 규제 대응을 강화하는 전략을 의미하는 Gartner 2026 전략기술 용어는?
 ① Confidential Computing
 ② Geopatriation
 ③ Digital Provenance
 ④ AI Security Platform
-
-> **정답 ②**
 
 ---
 
@@ -63,8 +53,6 @@
 ③ 사전에 구성되어 즉시 도입 가능한 패키지형 Agent
 ④ 사람의 개입 없이 완전히 독립적으로 작동하는 단일 Agent
 
-> **정답 ②** — ③은 'Pre-built Agent'에 대한 설명으로, 같은 Agentic AI 챕터 안에서 두 개념을 헷갈리게 만드는 전형적인 오답 선택지입니다.
-
 ---
 
 ## 우선순위 4 — Physical AI 세부 개념
@@ -75,11 +63,9 @@
 ③ Sim2Real
 ④ Domain Randomization
 
-> **정답 ②** — Sim2Real(③)·Domain Randomization(④)은 가상환경 학습-현실 적용 기법이고, VLA(①)는 로봇의 "두뇌" 역할 모델로 World Model과 혼동하기 쉬운 인접 개념입니다.
-
 ---
 
-## 우선순위 5 — CES 2026 사례-기업 매칭
+## 우선순위 5 — CES 2026 사례-기업 매칭 / Stablecoin 핵심 개념
 
 **Q8.** CES 2026에서 "가사노동을 줄이는 Zero Labor Home 비전"을 제시하며 가정용 지능형 로봇 'CLOiD'를 공개한 기업은?
 ① 보스턴 다이내믹스
@@ -87,19 +73,11 @@
 ③ NVIDIA
 ④ Siemens
 
-> **정답 ②** — ①(아틀라스, Best Robot상)과 혼동하지 않도록 주의. 같은 "Physical AI" 챕터에 두 사례가 나란히 나와 있어 교차 출제되기 좋은 구조입니다.
-
----
-
-## 우선순위 5 — Stablecoin 핵심 개념
-
 **Q9.** 스테이블코인이 AI Agent 시대에 수행할 것으로 학습자료가 전망한 역할로 가장 적절한 것은?
 ① 가격 변동성을 극대화해 투자 수익을 추구하는 자산
 ② 사전에 정의된 조건이 충족되면 자동으로 결제·정산이 이루어지는 Programmable Money
 ③ 중앙은행이 발행하는 디지털화폐(CBDC)를 완전히 대체하는 수단
 ④ 비트코인과 동일한 수준의 가격 변동성을 가진 가상자산
-
-> **정답 ②** — 스테이블코인의 존재 이유 자체가 "가격 변동성 최소화"이므로 ①④는 정의와 모순되는 오답입니다.
 
 ---
 
@@ -111,7 +89,23 @@
 ③ Technical Readiness와 Financial Readiness
 ④ Cloud Readiness와 Security Readiness
 
-> **정답 ②** — 자료 2페이지 서두에 등장하는 핵심 프레임으로, 전체 1부 내용의 전제가 되는 개념이라 출제 가능성이 높습니다.
+---
+---
+
+## 정답 및 해설
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| Q1 | ② | Agentic AI의 핵심은 "계획-실행-검증"이 반복되는 자율 실행 구조이며, 현재는 사람의 감독(Human-in-the-loop) 하에 일정 수준의 자율성을 갖는 형태가 일반적입니다(③은 자주 쓰이는 함정). |
+| Q2 | ④ | 자료가 제시한 3대 핵심요소는 ①②③이며, ④(법제도 정비)는 언급되지 않았습니다. |
+| Q3 | ② | 자료의 비교 다이어그램(Plan-Create-Verify-Release/Monitor)이 정확히 이 차이를 보여줍니다. |
+| Q4 | ③ | Top10은 AI-Native Dev Platform, AI Supercomputing, Confidential Computing, Multi-Agent Systems, DSLMs, Physical AI, Preemptive Cybersecurity, Digital Provenance, AI Security Platform, Geopatriation이며 'Blockchain-as-a-Service'는 목록에 없습니다. |
+| Q5 | ② | Geopatriation의 정의 그대로입니다. |
+| Q6 | ② | ③은 'Pre-built Agent'에 대한 설명으로, 같은 챕터 안에서 두 개념을 헷갈리게 만드는 전형적인 오답 선택지입니다. |
+| Q7 | ② | Sim2Real(③)·Domain Randomization(④)은 가상환경 학습-현실 적용 기법이고, VLA(①)는 로봇의 "두뇌" 역할 모델로 World Model과 혼동하기 쉬운 인접 개념입니다. |
+| Q8 | ② | ①(아틀라스, Best Robot상)과 혼동하지 않도록 주의. 같은 "Physical AI" 챕터에 두 사례가 나란히 나와 있어 교차 출제되기 좋은 구조입니다. |
+| Q9 | ② | 스테이블코인의 존재 이유 자체가 "가격 변동성 최소화"이므로 ①④는 정의와 모순되는 오답입니다. |
+| Q10 | ② | 자료 2페이지 서두에 등장하는 핵심 프레임으로, 전체 1부 내용의 전제가 되는 개념이라 출제 가능성이 높습니다. |
 
 ---
 
