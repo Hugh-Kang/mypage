@@ -1,4 +1,4 @@
-# CNS Fit Test 예상 기출문제 10선 (Emerging Technology 학습자료 기반)
+# CNS Fit Test 예상 기출문제 20선 (Emerging Technology 학습자료 기반)
 
 > 근거: LG CNS 제공 "Emerging Technology" 학습자료(16p) — `cns-fit-test-emerging-tech-study-material.md` 참고
 > 작성일: 2026-10-03
@@ -121,3 +121,95 @@
 | 6 | Stablecoin·양자컴퓨팅 동향 | 큰 흐름만 확인(세부 암기 우선순위는 낮음) |
 
 **유의사항**: 이 10문제는 학습자료의 분량·구조를 근거로 제가 추정해 만든 연습문제입니다. 실제 CNS Fit Test의 문제 형식(배점, 보기 수, 난이도)은 공식 발표가 없어 다를 수 있습니다 — 암기 내용 자체를 점검하는 용도로 활용하시고, 형식에 너무 의존하지 않는 것을 권장합니다.
+
+---
+---
+
+# 추가 예상 기출문제 10선 (Q11~Q20)
+
+> 1~10번이 다루지 않은 영역(1부 개관의 세부 개념, CES Industrial AI·AIDV, Physical AI 데이터 확보·오케스트레이션, Stablecoin 규제, 양자컴퓨팅 보안)을 중심으로 구성했습니다. **정답과 해설은 이 섹션 맨 아래에 모아뒀습니다.**
+
+## 우선순위 1 — Gartner 개관 세부 개념 (1부 서두, 기존에 다루지 않은 부분)
+
+**Q11.** Autonomous Business(자율 비즈니스) 달성을 위한 4대 기반 기술로 학습자료가 제시하지 **않은** 것은?
+① IAM(Identity and Access Management)
+② 체화된 AI(Embodied AI)
+③ Digital Twin 및 Intelligent Simulation
+④ Blockchain Consensus Protocol
+
+**Q12.** AI 도입에 따른 'Human Readiness' 관점에서 학습자료가 강조한 기업의 우선 대응 방향은?
+① 인력 감축을 통한 비용 절감
+② 재훈련(Re-skill)과 조직 재설계
+③ 전사적 업무의 전면 자동화
+④ AI Agent에게 조직 의사결정권을 전적으로 위임
+
+**Q13.** 'AI 주권(AI Sovereignty)'이 의미하는 바로 가장 적절한 것은?
+① 특정 국가만 AI 기술을 독점적으로 보유하는 것
+② 데이터뿐 아니라 모델과 생성 결과까지 기업이 통제·보호할 수 있는 역량
+③ AI 벤더가 고객 데이터를 자유롭게 활용할 수 있는 권리
+④ AI Agent가 조직 내 의사결정권을 갖는 것
+
+## 우선순위 2 — CES 2026 세부 사례 (Industrial AI·AIDV)
+
+**Q14.** CES 2026에서 NVIDIA와 협업해 'Digital Twin Composer'를 공개하며 "AI가 산업의 새로운 운영체제가 될 것"이라고 밝힌 기업은?
+① Siemens
+② Boston Dynamics
+③ 현대차그룹
+④ Google
+
+**Q15.** 차량 내부의 인포테인먼트와 운전자 지원 시스템 전반에 AI Agent를 적용해, 차량을 하나의 이동형 AI 플랫폼으로 발전시키는 개념은?
+① Physical AI
+② AIDV(AI Defined Vehicle)
+③ Embodied AI
+④ Digital Twin
+
+## 우선순위 3 — Physical AI 세부 기법
+
+**Q16.** VR 장비나 조이스틱을 활용해 로봇을 원격 조작하며 행동 학습 데이터를 수집하는 방식을 가리키는 용어는?
+① Retargeting
+② Teleoperation(원격조작)
+③ Domain Randomization
+④ Sim2Real
+
+**Q17.** 다양한 형태의 로봇(AMR, 사족보행, 이족보행 휴머노이드 등)이 동시에 운영되는 환경에서, 각 로봇을 Agent로 보고 실시간 상태·작업 상황을 분석해 최적의 실행 순서를 결정·재배분하는 기술은?
+① Tokenization
+② 오케스트레이션(Orchestration)
+③ Retargeting
+④ Confidential Computing
+
+**Q18.** 2025년 수천 대 규모의 휴머노이드 로봇을 양산하며 글로벌 양산 경쟁에 불을 지핀 기업으로 학습자료에 언급된 곳은?
+① 보스턴 다이내믹스
+② 유니트리(Unitree)
+③ 테슬라
+④ 현대차그룹
+
+## 우선순위 4 — Stablecoin·양자컴퓨팅 세부 (규제·보안)
+
+**Q19.** 스테이블코인 발행자의 준비금 요건과 공시 의무를 규정한 EU의 암호자산 규제안은?
+① GENIUS Act
+② MiCA
+③ PQC
+④ IAM
+
+**Q20.** 양자컴퓨터의 발전으로 기존 공개키 암호체계가 위협받을 가능성에 대응하기 위해 추진되는 암호 표준화 대상은?
+① QaaS(Quantum-as-a-Service)
+② PQC(Post-Quantum Cryptography)
+③ DSLM
+④ VLA
+
+---
+
+## 정답 및 해설 (Q11~Q20)
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| Q11 | ④ | 4대 기반 기술은 IAM, 체화된 AI, Digital Twin·Intelligent Simulation, Tokenization(토큰화)이며 'Blockchain Consensus Protocol'은 자료에 없는 용어입니다. |
+| Q12 | ② | 자료는 "인력 감축보다 재훈련(Re-skill)과 조직 재설계에 초점"을 맞춰야 한다고 명시합니다. |
+| Q13 | ② | AI 주권은 데이터뿐 아니라 모델·생성 결과까지 기업이 통제·보호하는 역량을 의미합니다. |
+| Q14 | ① | Siemens가 Digital Twin Composer를 통해 공장·설비·라인 단위 실시간 디지털트윈 구현을 목표로 한다고 밝혔습니다. |
+| Q15 | ② | AIDV(AI Defined Vehicle)의 정의 그대로입니다. Physical AI(①)는 더 넓은 상위 개념이라 혼동하기 쉽습니다. |
+| Q16 | ② | Teleoperation은 VR·조이스틱 기반 원격조작 데이터 수집 방식입니다. Retargeting(①)은 인간 행동 영상을 로봇 관절구조에 맞게 변환하는 기법으로 혼동하기 쉽습니다. |
+| Q17 | ② | 오케스트레이션의 정의 그대로이며, 이기종 로봇 통합 운영 플랫폼의 핵심 기능입니다. |
+| Q18 | ② | 자료는 "중국은 국가전략 차원에서 휴머노이드 로봇 대량생산 체계를 구축하고 있으며, 유니트리는 2025년 수천 대의 휴머노이드 로봇을 출하"했다고 명시합니다. 테슬라·현대차(③④)는 "자동차 생산라인 투입을 위한 파일럿 프로젝트" 단계로 구분되어 있어, 이미 수천 대를 양산한 유니트리와는 단계가 다릅니다. |
+| Q19 | ② | MiCA(암호자산 규제안)가 EU의 준비금·공시 규제입니다. GENIUS Act(①)는 미국의 관련 입법으로, 두 지역 규제를 헷갈리게 만드는 함정입니다. |
+| Q20 | ② | PQC(양자내성암호)의 정의 그대로입니다. QaaS(①)는 클라우드로 양자컴퓨팅 자원을 제공하는 서비스로 전혀 다른 개념입니다. |
