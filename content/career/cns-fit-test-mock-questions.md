@@ -1,4 +1,4 @@
-# CNS Fit Test 예상 기출문제 30선 (Emerging Technology 학습자료 기반)
+# CNS Fit Test 예상 기출문제 40선 (Emerging Technology 학습자료 기반)
 
 > 근거: LG CNS 제공 "Emerging Technology" 학습자료(16p) — `cns-fit-test-emerging-tech-study-material.md` 참고
 > 작성일: 2026-10-03
@@ -307,3 +307,95 @@
 | Q28 | ② | Google의 AAA(차량용 AI Agent)가 Mercedes-Benz와 협업 시연했습니다. NVIDIA(③)는 별도로 '알파마요' 자율주행 플랫폼을 선보여 혼동하기 쉽습니다. |
 | Q29 | ② | "CBDC는 공공·도매 거래 중심, 민간 스테이블코인은 소매결제·혁신서비스 중심"이라는 역할분담 구조가 형성될 가능성이 제시됩니다. |
 | Q30 | ② | 고전-양자 결합형 하이브리드 아키텍처의 정의 그대로입니다. Fault-Tolerant(①)는 오류보정 기술, Quantum-Safe Security(③)는 암호 대응 체계로 다른 개념입니다. |
+
+---
+---
+
+# 추가 예상 기출문제 10선 (Q31~Q40)
+
+> Q1~30이 다루지 않은 영역(Gartner Top10 나머지 개별 정의, CES 휴먼 인터페이스·양자컴퓨팅 메시지, Agentic AI 엔터프라이즈 적용·Claude Code, Physical AI Retargeting, Stablecoin 대표 사례)을 중심으로 구성했습니다. **정답과 해설은 이 섹션 맨 아래에 모아뒀습니다.**
+
+## 우선순위 1 — Gartner 2026 전략기술 Top10 나머지 개별 정의
+
+**Q31.** AI와 개발자가 협업해 애플리케이션을 신속하게 구현하는 차세대 개발환경을 가리키는 Gartner 2026 전략기술은?
+① AI Supercomputing Platform
+② AI-Native Development Platform
+③ AI Security Platform
+④ Digital Provenance
+
+**Q32.** 특정 산업·기능에 특화되어 고정확도·규제준수를 갖춘 AI 모델을 가리키는 용어는?
+① DSLM(Domain-Specific Language Models)
+② LLM(Large Language Model)
+③ VLA(Vision-Language-Action)
+④ RAG(Retrieval-Augmented Generation)
+
+**Q33.** 소프트웨어·데이터·AI 콘텐츠의 출처를 검증해 디지털 신뢰를 확보하는 기술은?
+① Confidential Computing
+② Preemptive Cybersecurity
+③ Digital Provenance
+④ Geopatriation
+
+**Q34.** 공격이 발생한 뒤 대응하는 방식이 아니라, 공격을 사전에 예측·차단하는 예방형 AI 보안 기술은?
+① Preemptive Cybersecurity
+② AI Security Platform
+③ Confidential Computing
+④ IAM
+
+## 우선순위 2 — CES 2026 휴먼 인터페이스·양자컴퓨팅 메시지
+
+**Q35.** CES 2026의 '휴먼 인터페이스' 의제에서 제시된 변화로 가장 적절한 것은?
+① 키보드·마우스 중심의 전통적 입력방식이 더욱 강화된다
+② 음성·뇌파 기반 차세대 제어 기술이 확산되고, AI 안경이 결제·쇼핑·광고 등 커머스 경험으로 확장된다
+③ 모든 인터페이스가 터치스크린으로 통일된다
+④ 인터페이스 혁신은 자동차 영역에 한정된다
+
+**Q36.** CES 2026에서 IBM·IonQ·QCI 등 양자컴퓨팅 기업들이 공통적으로 제시한 메시지는?
+① 완벽한 범용 양자컴퓨터가 개발될 때까지 상용화를 미뤄야 한다
+② 완벽한 범용 양자컴퓨터를 기다리기보다 현재 가능한 기술로 산업 문제를 해결하자
+③ 양자컴퓨팅은 이론 연구에 머물러야 하며 산업 적용은 시기상조다
+④ 고전컴퓨터를 완전히 대체하는 것이 유일한 목표다
+
+## 우선순위 3 — Agentic AI 엔터프라이즈 적용·AI-Native SW Eng 대표 사례
+
+**Q37.** Agentic AI 확산에 따라 엔터프라이즈 앱의 구조가 변화하는 방향으로 학습자료가 제시한 것은?
+① 메뉴 클릭·데이터 입력 중심에서 목표만 제시하면 Agent가 수행하는 '목표 중심 서비스'로 전환
+② 모든 앱이 음성 전용 인터페이스로 전환
+③ 앱의 기능이 단순화되어 메뉴 수가 줄어드는 데 그침
+④ 사용자 입력 없이도 앱이 스스로 목표를 설정하는 완전 자율 구조로 전환
+
+**Q38.** 기능 요구사항을 자연어로 제시하면 작업을 분해해 실행계획 수립, 코드 작성·수정, 테스트 생성·실행, 오류 발생 시 원인분석·수정까지 반복 수행하는 자율 코딩 Agent의 대표 사례는?
+① Anthropic Claude Code
+② GitHub(저장소 호스팅 서비스 자체)
+③ Figma
+④ Slack
+
+## 우선순위 4 — Physical AI·Stablecoin 세부 사례
+
+**Q39.** 인간의 행동을 담은 영상을 로봇의 관절 구조에 맞게 변환해 로봇 학습 데이터로 활용하는 기법은?
+① Teleoperation
+② Retargeting
+③ Domain Randomization
+④ Sim2Real
+
+**Q40.** 가격 변동성을 최소화한 스테이블코인 중, 최대 유동량을 보유한 테더(USDT)와 달리 투명한 준비금 공시를 강조하는 것으로 자료에 소개된 발행사·코인은?
+① Circle사의 USD Coin(USDC)
+② Binance Coin(BNB)
+③ Ripple(XRP)
+④ Ethereum(ETH)
+
+---
+
+## 정답 및 해설 (Q31~Q40)
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| Q31 | ② | AI-Native Development Platform의 정의 그대로입니다. |
+| Q32 | ① | DSLM(Domain-Specific Language Models)의 정의 그대로입니다. |
+| Q33 | ③ | Digital Provenance의 정의 그대로입니다. Confidential Computing(①)은 처리 중 데이터 보호로 다른 개념이라 혼동 주의. |
+| Q34 | ① | Preemptive Cybersecurity의 정의 그대로입니다. |
+| Q35 | ② | 음성·뇌파 기반 제어 기술 확산 + AI 안경의 커머스 경험 확장이 자료에 명시된 변화입니다. |
+| Q36 | ② | "완벽한 범용 양자컴퓨터를 기다리기보다 현재 가능한 기술로 산업 문제를 해결하자"는 메시지가 CES 2026 양자컴퓨팅 의제의 핵심입니다. |
+| Q37 | ① | '메뉴 클릭·데이터 입력' 중심에서 '목표 중심 서비스'로 전환되며 UX도 자연어·대화형으로 확장된다고 명시됩니다. |
+| Q38 | ① | Anthropic Claude Code가 자율 코딩 Agent의 대표 사례로 제시됩니다. |
+| Q39 | ② | Retargeting의 정의 그대로입니다. Teleoperation(①)은 VR·조이스틱 기반 원격조작으로 별개 개념입니다. |
+| Q40 | ① | Circle사 발행 USDC가 투명한 준비금 공시를 강조하는 사례로 소개되며, 테더(USDT)는 최대 유동량을 가진 사례로 대비돼 제시됩니다. |
