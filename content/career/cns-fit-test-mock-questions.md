@@ -1,4 +1,4 @@
-# CNS Fit Test 예상 기출문제 40선 (Emerging Technology 학습자료 기반)
+# CNS Fit Test 예상 기출문제 50선 (Emerging Technology 학습자료 기반)
 
 > 근거: LG CNS 제공 "Emerging Technology" 학습자료(16p) — `cns-fit-test-emerging-tech-study-material.md` 참고
 > 작성일: 2026-10-03
@@ -399,3 +399,97 @@
 | Q38 | ① | Anthropic Claude Code가 자율 코딩 Agent의 대표 사례로 제시됩니다. |
 | Q39 | ② | Retargeting의 정의 그대로입니다. Teleoperation(①)은 VR·조이스틱 기반 원격조작으로 별개 개념입니다. |
 | Q40 | ① | Circle사 발행 USDC가 투명한 준비금 공시를 강조하는 사례로 소개되며, 테더(USDT)는 최대 유동량을 가진 사례로 대비돼 제시됩니다. |
+
+---
+---
+
+# 추가 예상 기출문제 10선 (Q41~Q50) — 시험 전날 최종 점검용
+
+> Q1~40이 다루지 않았던 영역(SW구매 개념변화, Mastercard/Visa 사례, Quantum AI, 한국 CBDC, Physical AI 구성요소 등)과, 출제 가능성이 가장 높은 핵심 개념의 재확인(Gartner Top10 재검증, AI-Native Dev Platform 전망 등)을 함께 구성했습니다. **정답과 해설은 이 섹션 맨 아래에 모아뒀습니다.**
+
+## 우선순위 1 — 아직 다루지 않은 핵심 개념
+
+**Q41.** AI-Native Software Engineering 확산에 따른 기업의 소프트웨어 구매 방식 변화로 학습자료가 제시한 것은?
+① 모든 기업이 자체 개발을 포기하고 SaaS 구독으로 전면 전환한다
+② 개발 속도·비용 장벽이 낮아지며 기존 SaaS 라이선스·구독 비용을 재검토하고 자체 구축으로 전환하는 사례가 늘어난다
+③ SW 구매 방식에는 아무 변화가 없다
+④ 정부 규제로 인해 SaaS 구매가 전면 금지된다
+
+**Q42.** Mastercard·Visa가 스테이블코인과 관련해 추진한 것으로 자료에 소개된 내용은?
+① Mastercard가 Circle 발행 USDC를 자사 결제망에 통합하는 파일럿을 진행하고, Visa도 일부 금융기관과 USDC 기반 정산을 시험했다
+② Mastercard·Visa는 스테이블코인 사용을 전면 금지하는 정책을 발표했다
+③ Mastercard·Visa가 자체 스테이블코인을 발행해 테더(USDT)를 대체했다
+④ 스테이블코인은 카드사의 결제망과 무관한 별도 생태계로만 운영된다
+
+**Q43.** 양자컴퓨팅으로 AI의 일부 계산(최적화·확률계산 등)을 개선·가속하려는 연구 분야를 가리키는 용어는?
+① Quantum AI
+② QaaS(Quantum-as-a-Service)
+③ PQC(Post-Quantum Cryptography)
+④ Fault-Tolerant Quantum Computing
+
+## 우선순위 2 — Gartner Top10 재검증 (다른 오답 선택지로 재확인)
+
+**Q44.** 다음 중 Gartner가 제시한 2026년 전략 기술 Top10에 포함되지 **않는** 것은?
+① AI Supercomputing Platform
+② Digital Provenance
+③ Agentic Workforce Platform
+④ AI Security Platform
+
+## 우선순위 3 — Top5 기술 핵심 전망·개념 재확인
+
+**Q45.** AI-Native Development Platform에 대해 Gartner가 제시한 전망으로 가장 적절한 것은?
+① 2030년까지 상당수 기업용 앱이 이 플랫폼 기반으로 구축될 것이다
+② 2030년 이후에는 이 플랫폼이 완전히 사라질 것이다
+③ 대기업만 제한적으로 도입할 수 있는 기술이다
+④ 기존 SI 개발 방식과 전혀 차이가 없다
+
+**Q46.** CES 2026의 '휴먼 인터페이스' 의제에서 AI 안경이 확장하는 경험 영역으로 제시된 것은?
+① 결제·쇼핑·광고 등 커머스 경험
+② 단순 메시지 알림 표시 기능에 국한
+③ 게임 전용 디스플레이 기능
+④ 음악 재생 전용 기기로서의 역할
+
+## 우선순위 4 — CES 세부 사례 재확인
+
+**Q47.** NVIDIA가 CES 2026에서 선보인 자율주행 플랫폼으로, AIDV(AI Defined Vehicle) 의제와 관련해 제시된 것은?
+① 알파마요
+② Cosmos
+③ Digital Twin Composer
+④ CLOiD
+
+**Q48.** 스테이블코인·CBDC 제도화와 관련해 한국의 상황으로 자료에 제시된 것은?
+① 한국은행이 CBDC 실험을 병행하며 금융위원회 중심으로 스테이블코인 제도화 방안을 논의 중이다
+② 한국은 스테이블코인 관련 논의를 전혀 진행하지 않고 있다
+③ 한국은행이 CBDC 실험을 전면 중단했다
+④ 금융위원회가 스테이블코인을 전면 허용하는 법안을 이미 통과시켰다
+
+## 우선순위 5 — Physical AI·Agentic AI 구성요소 재확인
+
+**Q49.** Physical AI의 구성 요소로 학습자료가 제시한 것은?
+① HW(센서+구동장치)와 AI SW(환경이해+행동결정 알고리즘) 2부분으로 구성된다
+② AI SW만으로 구성되며 별도의 하드웨어는 필요하지 않다
+③ HW만으로 구성되며 AI 소프트웨어는 불필요하다
+④ 클라우드 서버만으로 완전히 구현 가능하다
+
+**Q50.** Accenture 'AI Refinery'의 계층 구조를 상위에서 하위 순서로 바르게 나열한 것은?
+① Orchestrator → Super Agent → Utility Agent
+② Utility Agent → Super Agent → Orchestrator
+③ Super Agent → Orchestrator → Utility Agent
+④ Orchestrator → Utility Agent → Super Agent
+
+---
+
+## 정답 및 해설 (Q41~Q50)
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| Q41 | ② | 개발 속도·비용 장벽이 낮아지며 기존 SaaS 라이선스·구독 비용을 재검토하고 자체 구축으로 전환하는 사례가 늘어난다고 명시되며, 이것이 글로벌 SaaS 기업 주가 하락 배경 중 하나로도 지목됩니다. |
+| Q42 | ① | Mastercard는 USDC를 자사 결제망에 통합하는 파일럿을, Visa도 일부 금융기관과 USDC 기반 정산을 시험했다고 명시됩니다. |
+| Q43 | ① | Quantum AI의 정의 그대로입니다. QaaS(②)는 클라우드 기반 양자컴퓨팅 자원 제공이라는 별개 개념입니다. |
+| Q44 | ③ | Top10은 AI-Native Dev Platform, AI Supercomputing, Confidential Computing, Multi-Agent Systems, DSLMs, Physical AI, Preemptive Cybersecurity, Digital Provenance, AI Security Platform, Geopatriation이며 'Agentic Workforce Platform'은 목록에 없는 가상의 명칭입니다. |
+| Q45 | ① | Gartner는 2030년까지 상당수 기업용 앱이 AI-Native Development Platform 기반으로 구축될 것으로 전망한다고 명시합니다. |
+| Q46 | ① | AI 안경이 결제·쇼핑·광고 등 커머스 경험으로 확장된다고 명시됩니다. |
+| Q47 | ① | NVIDIA의 자율주행 플랫폼 '알파마요'가 AIDV 사례로 제시됩니다. Cosmos(②)는 로보틱스·자율주행용 월드 파운데이션 모델로 Physical AI 챕터의 사례이며, Digital Twin Composer(③)는 Siemens의 Industrial AI 사례로 서로 다른 챕터입니다. |
+| Q48 | ① | 한국은행이 CBDC 실험을 병행하면서 금융위원회 중심으로 스테이블코인 제도화 방안을 논의 중이라고 명시됩니다. |
+| Q49 | ① | Physical AI는 HW(센서+구동장치)와 AI SW(환경이해+행동결정 알고리즘) 2부분으로 구성된다고 명시됩니다. |
+| Q50 | ① | Accenture AI Refinery는 Orchestrator-Super Agent-Utility Agent 순서의 계층 구조로 구성됩니다. |
