@@ -493,3 +493,87 @@
 | Q48 | ① | 한국은행이 CBDC 실험을 병행하면서 금융위원회 중심으로 스테이블코인 제도화 방안을 논의 중이라고 명시됩니다. |
 | Q49 | ① | Physical AI는 HW(센서+구동장치)와 AI SW(환경이해+행동결정 알고리즘) 2부분으로 구성된다고 명시됩니다. |
 | Q50 | ① | Accenture AI Refinery는 Orchestrator-Super Agent-Utility Agent 순서의 계층 구조로 구성됩니다. |
+
+---
+---
+
+# 시험 직전 최종 점검 10선 (기존 출제 내용 중 최우선순위, 신규 문제 아님)
+
+> 새 내용이 아니라 Q1~50·P1~20 중 **가장 중요한 10개 개념**만 뽑아 재구성한 최종 점검용입니다. 정의·항목을 직접 묻는 유형(R1~R5)과 "옳지 않은 것을 고르시오" 부정형(R6~R10)을 섞었습니다. **정답은 맨 아래에 모아뒀습니다.**
+
+**R1.** 'Agentic AI'의 핵심 정의로 가장 적절한 것은?
+① 사용자 질문에 가장 정확한 답을 생성하는 모델
+② 최종 목표가 주어지면 계획 수립→실행→결과 검증까지 스스로 수행하되, 현재는 Human-in-the-loop 하 일정 자율성을 갖는 AI
+③ 완전히 독립적으로 작동하며 인간 개입이 전혀 없는 AI
+④ 단일 거대언어모델이 모든 업무를 처리하는 구조
+
+**R2.** NVIDIA 'Cosmos'가 대표 사례로 제시되는 개념은?
+① Sim2Real
+② Domain Randomization
+③ World Model(환경 상태변화 학습 + 미래상황 예측)
+④ Retargeting
+
+**R3.** Gartner가 제시한, 기업이 AI로 실질적 가치를 창출하기 위해 동시에 갖춰야 한다고 강조한 두 가지 준비는?
+① AI Readiness와 Data Readiness
+② AI Readiness와 Human Readiness
+③ Technical Readiness와 Financial Readiness
+④ Cloud Readiness와 Security Readiness
+
+**R4.** Accenture 'AI Refinery'의 계층 구조를 상위→하위 순서로 바르게 나열한 것은?
+① Orchestrator → Super Agent → Utility Agent
+② Utility Agent → Super Agent → Orchestrator
+③ Super Agent → Orchestrator → Utility Agent
+④ Orchestrator → Utility Agent → Super Agent
+
+**R5.** 데스크톱 업무 실행형 AI로, 자연어 목표 입력만으로 로컬 파일 분석·보고서 작성을 수행하는 'AI 동료'형 도구의 대표 사례는?
+① Anthropic Claude Cowork
+② Anthropic Claude Code
+③ NVIDIA Cosmos
+④ Accenture AI Refinery
+
+**R6.** 다음 중 Gartner가 제시한 2026년 전략 기술 Top10에 포함되지 **않는** 것은?
+① Multi-Agent Systems
+② Domain-Specific Language Models(DSLMs)
+③ Blockchain-as-a-Service
+④ Preemptive Cybersecurity
+
+**R7.** Physical AI의 성공적 현장 적용을 위한 핵심 요소에 대한 설명으로 옳지 **않은** 것은?
+① 현장 데이터를 수집해 학습하고 지속적으로 개선하는 체계가 필요하다
+② 다수 로봇을 통합 운영하는 역량이 중요하다
+③ 현장 맞춤형 로봇 배치와 안전성 확보가 필요하다
+④ 완전 자율주행 수준의 법제도 정비가 모든 현장 적용의 전제조건이다
+
+**R8.** CES 2026의 5대 의제에 대한 설명으로 옳지 **않은** 것은?
+① Physical AI — NVIDIA가 "Physical AI의 ChatGPT 순간 도래"를 선언했다
+② Industrial AI — Siemens가 NVIDIA와 협업해 Digital Twin Composer를 공개했다
+③ 양자컴퓨팅 — 완벽한 범용 양자컴퓨터가 상용화된 뒤에야 산업 적용이 시작된다는 메시지가 제시됐다
+④ 휴먼 인터페이스 — 음성·뇌파 기반 제어 기술과 AI 안경의 커머스 확장이 다뤄졌다
+
+**R9.** 스테이블코인에 대한 설명으로 옳지 **않은** 것은?
+① 법정화폐 가치에 연동해 가격 변동성을 최소화한 디지털 자산이다
+② 테더(USDT)는 최대 유동량을 보유한 사례로 소개된다
+③ 비트코인과 동일한 수준의 가격 변동성을 목표로 설계됐다
+④ AI Agent 시대에 조건 충족 시 자동 결제·정산되는 Programmable Money로 역할이 확대될 전망이다
+
+**R10.** Autonomous Business(자율 비즈니스) 달성을 위한 4대 기반 기술에 대한 설명으로 옳지 **않은** 것은?
+① IAM은 AI Agent를 조직 구성원처럼 관리하는 기반 기술이다
+② 체화된 AI(Embodied AI)는 로봇·자율주행용 인지-세계모델-행동조정 기술이다
+③ Blockchain Consensus Protocol이 네 번째 기반 기술로 포함된다
+④ Tokenization은 프로그램 가능 경제의 기반이 되는 토큰화 기술이다
+
+---
+
+## 정답 및 해설 (R1~R10)
+
+| 문항 | 정답 | 해설 |
+|---|---|---|
+| R1 | ② | Agentic AI 핵심은 "계획-실행-검증"의 반복 자율 실행 구조이며, 현재는 완전 독립이 아니라 Human-in-the-loop 하 일정 자율성을 갖는 형태가 일반적입니다. |
+| R2 | ③ | NVIDIA 'Cosmos'는 로보틱스·자율주행용 월드 파운데이션 모델, 즉 World Model의 대표 사례입니다. |
+| R3 | ② | AI Readiness(기술적 준비)와 Human Readiness(조직적 준비) 두 가지가 Gartner가 강조한 핵심 축입니다. |
+| R4 | ① | Accenture AI Refinery는 Orchestrator-Super Agent-Utility Agent 순서의 계층 구조로 구성됩니다. |
+| R5 | ① | Anthropic Claude Cowork가 데스크톱 업무 실행형 'AI 동료' 도구의 대표 사례입니다. Claude Code(②)는 자율 코딩 Agent로 역할이 다릅니다. |
+| R6 | ③ | Top10은 AI-Native Dev Platform, AI Supercomputing, Confidential Computing, Multi-Agent Systems, DSLMs, Physical AI, Preemptive Cybersecurity, Digital Provenance, AI Security Platform, Geopatriation이며 'Blockchain-as-a-Service'는 목록에 없습니다. |
+| R7 | ④ | 핵심요소는 ①②③이며, "완전 자율주행 수준의 법제도 정비가 모든 현장 적용의 전제조건"이라는 설명은 자료에 없는 과도한 일반화입니다. |
+| R8 | ③ | CES 2026 양자컴퓨팅 메시지는 "완벽한 범용 양자컴퓨터를 기다리기보다 현재 가능한 기술로 산업 문제를 해결하자"이며, ③은 정반대 설명입니다. |
+| R9 | ③ | 스테이블코인의 존재 이유 자체가 "가격 변동성 최소화"이므로, 비트코인과 동일한 변동성을 목표로 한다는 설명은 정의와 모순됩니다. |
+| R10 | ③ | 4대 기반기술은 IAM, 체화된 AI, Digital Twin·Intelligent Simulation, Tokenization이며 'Blockchain Consensus Protocol'은 자료에 없는 용어입니다. |
