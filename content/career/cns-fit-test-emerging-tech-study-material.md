@@ -144,3 +144,54 @@
 - [ ] AI Readiness ≠ Human Readiness — 기술 준비와 조직 준비는 별개 축이며 둘 다 충족돼야 Autonomous Business 도달
 - [ ] Pre-built Agent(기성 패키지) vs Multi-Agent(역할분담 협업 구조) 구분
 - [ ] Sim2Real, VLA, World Model — Physical AI의 3대 핵심 키워드
+
+## 6. 객관식(Emerging Tech Knowledge Test, 8문항) 유형별 체크리스트 — D-1 최종점검
+
+`cns-fit-test-mock-questions.md`(Q1~50, R1~10)·`cns-fit-test-platform-prep.md`(P1~20) 총 80문항을 풀어보며 드러난 **출제 유형 6가지**와 유형별 주의점입니다.
+
+### 유형 A — 단순 정의형 ("~은 무엇을 의미하는가")
+**대상**: Agentic AI, Physical AI, Stablecoin, 양자컴퓨팅, DSLM, AI Sovereignty, Quantum AI 등
+**주의점**: 정확한 한 줄 정의를 외우되, "완전 자동", "인간 개입 전혀 없음", "독립적으로만" 같은 **극단적 표현은 오답 함정**으로 반복 등장합니다. Agentic AI는 "Human-in-the-loop 하 일정 자율성"이 정답이지 "완전 독립"이 아닙니다.
+**참고**: Q1, R1, P1, Q43
+
+### 유형 B — "다음 중 포함되지 않는 것은" 리스트형
+**대상**: Gartner Top10(10개), Autonomous Business 4대 기반기술(4개)
+**주의점**: 리스트를 통암기해야 하며, **그럴듯하게 지어낸 가짜 항목**이 오답 함정으로 나옵니다 — 'Blockchain-as-a-Service', 'Agentic Workforce Platform', 'Blockchain Consensus Protocol' 같은 이름은 실제로 자료에 없습니다. "블록체인/에이전트가 들어간 단어니까 있을 것 같다"는 느낌만으로 고르지 말 것.
+**참고**: Q4, Q44, R6, Q11, P5
+
+### 유형 C — "옳지 않은 것을 고르시오" 부정형
+**대상**: 거의 모든 주제에 적용 가능
+**주의점**: 보기 중 1개가 **예외조항을 거꾸로 적용**하거나 **방향을 반전**시킨 경우가 많습니다(예: "양자컴퓨팅은 완벽한 범용컴퓨터 상용화 후에야 적용 시작" — 실제는 정반대). "~한 뒤에야", "전혀", "반드시 ~해야만" 같은 단정적 표현이 보이면 자료와 대조해보는 습관이 필요합니다.
+**참고**: P2, P6, P7, R7, R8, R9, R10
+
+### 유형 D — 사례·개념 매칭형 (헷갈리는 짝)
+아래 짝은 이름이나 맥락이 비슷해 혼동하기 쉬우므로 **반드시 짝으로 구분 암기**:
+
+| 헷갈리는 짝 | 구분 포인트 |
+|---|---|
+| Claude Cowork vs Claude Code | Cowork=데스크톱 업무실행 'AI동료' / Code=자율 코딩 Agent |
+| Teleoperation vs Retargeting | Teleoperation=VR·조이스틱 원격조작 / Retargeting=인간행동영상→로봇관절 변환 |
+| NVIDIA 알파마요 vs NVIDIA Cosmos | 알파마요=AIDV 자율주행 플랫폼 / Cosmos=Physical AI 월드 파운데이션 모델 |
+| Siemens Digital Twin Composer vs Google AAA | Siemens=Industrial AI(공장) / Google AAA=AIDV(차량) |
+| 보스턴다이내믹스 아틀라스 vs LG전자 CLOiD | 아틀라스=Best Robot상·2028년 3만대 목표 / CLOiD=Zero Labor Home 가정용 |
+| Pre-built Agent vs Multi-Agent | 전자=기성 패키지형 / 후자=역할분담 협업 구조 |
+| MiCA vs GENIUS Act | MiCA=EU 규제 / GENIUS Act=미국 입법 |
+| PQC vs QaaS vs Quantum AI | PQC=양자내성암호 표준화 / QaaS=클라우드 양자자원 제공 / Quantum AI=AI계산 가속 연구 |
+
+**참고**: R5, P14, Q39, Q47, Q42
+
+### 유형 E — 순서·구조형
+**대상**: Accenture AI Refinery 계층구조(Orchestrator→Super Agent→Utility Agent), AI Readiness·Human Readiness 2축 구분(둘 다 충족해야 Autonomous Business 도달)
+**주의점**: 순서를 뒤바꾼 보기가 오답으로 등장. "~가 먼저"처럼 선후관계를 묻는 문제는 구조를 정확히 외워야 함
+**참고**: R3, R4, Q50
+
+### 유형 F — 숫자·전망형
+**대상**: Gartner 2030년 전망(AI-Native Dev Platform), 테슬라 옵티머스 연 100만대 계획, 유니트리 2025년 수천대 양산, 현대차 아틀라스 2028년 3만대 목표
+**주의점**: "이미 완료"와 "목표로 제시"를 혼동하는 보기가 함정 — 테슬라·현대차는 아직 파일럿 단계이지 유니트리처럼 양산을 완료한 게 아님
+**참고**: Q45, P7, P15
+
+### 시험 당일 운용 전략
+1. 8문항은 **출제비중이 가장 높은 Top5 기술(Agentic AI·AI-Native SW Eng·Physical AI·Stablecoin·양자컴퓨팅) 정의부터** 머릿속에 정리하고 입실
+2. 객관식엔 **AI 사용이 금지**되므로, 순수 암기로 가능한 한 빨리(목표 10분 내외) 끝내고 남은 시간을 서술형에 투입
+3. 헷갈리면 유형C(부정형)의 "극단적 표현" 패턴과 유형D(매칭형) 비교표를 떠올려 소거법 적용
+4. 확신이 안 서는 리스트형(유형B) 문제는 "자료에 없는 그럴듯한 이름"부터 제외하는 방식으로 접근
