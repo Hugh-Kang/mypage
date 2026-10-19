@@ -44,7 +44,26 @@
 
 ---
 
-나머지 21~30번은 이어서 요청해주시면 보여드리겠습니다.
+## 21~30번
+
+| # | 카테고리 | 질의응답 항목 | 상태 | 근거 파일 |
+|---|---|---|---|---|
+| 21 | 비즈니스/전략(CPO) | 넷플릭스·쿠팡플레이 등 경쟁 OTT 대비 티빙만의 차별화 포인트 | ✅ | `tving-cpo-expected-questions-10.md` #4 |
+| 22 | 비즈니스/전략(CPO) | 리소스가 제한적일 때 여러 기능 후보 중 우선순위 판단 기준(임팩트×난이도×전략적합성) | ✅ | `tving-cpo-expected-questions-10.md` #5 |
+| 23 | 비즈니스/전략(CPO) | Build vs Buy — 외부 AI 벤더(Jev 모델 등) 사용 판단 기준 | ✅ | `tving-interview-prep-discussion-kimhyunwoo.md`, `tving-cpo-expected-questions-10.md` #9 |
+| 24 | 글로벌 확장 | 국내에서 잘 되는 서비스가 해외에서도 통할지 — 실제 B2B 콘텐츠 허브 전략 인지 기반 답변 | ✅ | `tving-global-expansion-considerations-case-studies.md` |
+| 25 | 글로벌 확장 | 네이버웹툰의 해외 성공 요인과 티빙에 주는 시사점 | ✅ | `naver-webtoon-global-success-factors-analysis.md` |
+| 26 | 글로벌 확장 | 해외 진출 개선 후보 3가지(메타데이터 고도화/라이트 로컬라이제이션/팬톡 자원화) | ✅ | `tving-global-expansion-improvement-candidates-3.md` |
+| 27 | 라이브스포츠/KBO | KBO 생중계에서는 추천·챗봇이 VOD와 어떻게 다르게 작동해야 하는가 | 🆕 | 미준비 — **최우선 보완 필요** |
+| 28 | 협업/조직적응 | 큰 조직에서 팔로워 역할이 많아도 답답하지 않을지(스타트업 리딩 경험과의 간극) | ✅ | `mock-interview-leejiyoung-2026-10-07-structured.md` Q12 |
+| 29 | 협업/조직적응 | 라이브 서비스 특성상 주말·야근 비상 대응(PM 당번제 제안) | ✅ | `mock-interview-kimyoungrae-2026-10-18-structured.md` #9 |
+| 30 | 마무리 | 입사 후 90일 계획 + 5년/10년 커리어 목표 + 역질문 | ✅ | `mock-interview-kimyoungrae-2026-10-18-structured.md` #20~#21, `mock-interview-leejiyoung-2026-10-07-structured.md` Q24 |
 
 ---
-본 문서는 티빙 CPO 2차 면접 전 점검이 필요한 질의응답 항목 30개를 준비 상태와 근거 파일과 함께 정리한 자가 준비용 자료입니다. (21~30번은 후속 편집으로 추가 예정)
+
+## 전체 결론 — 유일한 미준비 항목
+
+30개 항목 중 **27번(KBO 생중계에서의 추천·챗봇 적용 방식)만 유일하게 🆕 미준비 상태**입니다. 이는 신임 CPO 박지은이 직접 KBO 생중계 고도화를 맡고 있다는 점(`tving-cpo-parkjieun-profile-analysis.md`)을 고려하면, 지금까지의 30개 항목 중 **가장 우선순위 높은 보완 과제**입니다.
+
+---
+본 문서는 티빙 CPO 2차 면접 전 점검이 필요한 질의응답 항목 30개를 준비 상태와 근거 파일과 함께 정리한 자가 준비용 자료입니다.
