@@ -27,7 +27,24 @@
 
 ---
 
-나머지 11~20번, 21~30번은 이어서 요청해주시면 보여드리겠습니다.
+## 11~20번
+
+| # | 카테고리 | 질의응답 항목 | 상태 | 근거 파일 |
+|---|---|---|---|---|
+| 11 | PM 정체성/PMF | 데이터 vs 직관이 충돌할 때 의사결정 기준 | ✅ | `mock-interview-kimyoungrae-2026-10-18-structured.md` #13 |
+| 12 | PM 정체성/PMF | 데이터가 거의 없는 상황에서 기획한 경험(건강디저트, 네이버 스마트스토어 크롤링) | ✅ | `mock-interview-leejiyoung-2026-10-07-structured.md` Q17 |
+| 13 | 챗봇/추천 MVP | 입사 후 하고 싶은 업무 — 팬톡 리뷰 기반 스포일러 제외 추천 MVP | ✅ | `mock-interview-leejiyoung-2026-10-07-structured.md` Q14 |
+| 14 | 챗봇/추천 MVP | V2 바이럴 트렌드 에이전트 설계(외부 트렌드 크롤링 + 내부 카탈로그 매칭) | ✅ | `tving-chatbot-mvp-v2-viral-trend-agent-design.md` |
+| 15 | 챗봇/추천 MVP | V3 결합 MVP — 팬톡리뷰 + 바이럴 탐지, 세그먼트 우선순위(고려단계 사용자 우선) | ✅ | `tving-chatbot-agent-v3-combined-problem-definition-mvp-segment.md` |
+| 16 | 챗봇/추천 MVP | 계정 공유로 취향이 섞이는 문제 — 정책·추천 단계적 해법 | ✅ | `tving-shared-account-taste-mixing-recommendation-policy.md` |
+| 17 | 챗봇/추천 MVP | AI 에이전트의 "성공"/"실패"를 각각 어떻게 정의할 것인가 | ✅ | `mock-interview-kimyoungrae-2026-10-18-structured.md` #11, #18 |
+| 18 | 챗봇/추천 MVP | AI 에이전트 운영 비용 구조(메시지당 LLM API 비용 vs 자체 모델) | ✅ | `mock-interview-kimyoungrae-2026-10-18-structured.md` #19 |
+| 19 | 비즈니스/전략(CPO) | 콘텐츠 투자(오리지널·중계권) vs 기능 투자, 지금 왜 후자인가 | ✅ | `tving-cpo-expected-questions-10.md` #1 |
+| 20 | 비즈니스/전략(CPO) | 챗봇 에이전트의 비즈니스 임팩트를 숫자로 설명 | ✅ | `tving-cpo-questions-answers-with-tailquestions.md` Q3 |
 
 ---
-본 문서는 티빙 CPO 2차 면접 전 점검이 필요한 질의응답 항목 30개를 준비 상태와 근거 파일과 함께 정리한 자가 준비용 자료입니다. (11~30번은 후속 편집으로 추가 예정)
+
+나머지 21~30번은 이어서 요청해주시면 보여드리겠습니다.
+
+---
+본 문서는 티빙 CPO 2차 면접 전 점검이 필요한 질의응답 항목 30개를 준비 상태와 근거 파일과 함께 정리한 자가 준비용 자료입니다. (21~30번은 후속 편집으로 추가 예정)
